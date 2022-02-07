@@ -1,5 +1,7 @@
 # one
 
+Here I build a simple frontend for an API.
+
 ## Project setup
 ```
 npm install
